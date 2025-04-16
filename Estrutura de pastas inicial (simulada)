@@ -1,0 +1,11 @@
+/nacar-cashback-app
+├── /src
+│   ├── /components
+│   ├── /pages
+│   ├── /assets
+│   └── App.jsx
+├── /api
+│   └── index.js
+├── .gitignore
+├── package.json
+└── README.md
